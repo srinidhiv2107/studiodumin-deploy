@@ -9,6 +9,7 @@ import Feedback from "./components/Feedback.jsx";
 import Connection from "./components/Connection.jsx";
 import AboutUs from "./components/AboutUs.jsx";
 import Footer from "./components/Footer.jsx";
+import DesignServices from './components/DesignServices.jsx';
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
       <AboutUs/>
       <Vision/>
       <EmptyComponent/>
+      <DesignServices/>
       <Portfolio/>
       <Feedback/>
       <Connection/>

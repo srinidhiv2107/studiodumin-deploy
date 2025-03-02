@@ -2,7 +2,9 @@
 
 .navbar {
   position: sticky;
+  left: 0;
   top: 0;
+  right: 0;
   z-index: 1000;
   width: 100%;
   @include mixins.displayFlex($jc: space-between);

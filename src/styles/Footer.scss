@@ -54,6 +54,8 @@
       &>.p1, &>.p2 {
         width: 7rem;
         font-weight: var(--font-regular);
+      }
+      &>.p2 {
         cursor: pointer;
       }
     }
